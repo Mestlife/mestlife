@@ -1,0 +1,12 @@
+Antalya Transfer Pro 42.0.7 — tema teslimatı
+
+Paket: antalyatransferpro-42.0.7.zip
+SHA-256: 7686a2676612f5925650ce201e43108aed0271cac306d500647113cfbb0198ee
+
+42.0.6 üzerine yapılan düzeltmeler: personel yetkileri ve engellenen hesaplar, panel ayarlarının siteye yansıması, hero/tanıtım görselleri, Gemini çıktı doğrulaması ve kaldığı yerden devam, tekrar kayıtta tek taslak, Türkçe blog özeti ve dile uygun bağlantılar. Ayrıntılar paketteki CHANGELOG-42.0.7.md ve TEST-SONUCLARI-42.0.7.txt içindedir.
+
+Kurulum: Önce dosya/veritabanı yedeği alın. WordPress > Görünüm > Temalar > Yeni tema ekle > Tema yükle üzerinden ZIP'i yükleyin; mevcut temayı yeni paketle değiştirin. ZIP tam temadır. Anahtarlar, fiyatlar ve yazılar WordPress veritabanında korunur. Bu teslimat canlı siteye otomatik kurulmaz.
+
+Gemini: Blog Studio'da kaydedilen anahtarla Load available models düğmesini kullanın; erişilebilir model kimliğini seçip kaydedin. Gerçek Gemini/Pexels anahtarlarıyla ücretli üretim yapılmadı. Başarısız üretimde Create / resume article ile aynı iş devam eder.
+
+Paket kaynak tema dosyalarını içerir; veritabanı, API anahtarı, gerçek rezervasyon verisi veya yerel test hesapları içermez.
