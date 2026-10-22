@@ -1,0 +1,8 @@
+Antalya Transfer Pro 42.0.1
+
+Theme-only delivery; no database, credentials or customer records.
+Fixes price saving, blank/zero fare removal, Lara region matching and unavailable shuttle content.
+Validated locally: 25 pricing checks and 28 booking checks passed.
+Back up first; install on staging, refresh the admin page, then re-enter and save intended prices.
+Both one-way and return fields must be blank/zero to remove a service completely.
+SHA-256: 01829bae7cb634a302e561ba8134c12054c9bde4b62b9853bd3fbb10fe01cad1
