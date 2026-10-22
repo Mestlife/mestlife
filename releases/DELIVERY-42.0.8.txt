@@ -1,0 +1,9 @@
+Antalya Transfer Pro 42.0.8 — Gemini bağlantı düzeltmesi
+
+42.0.7 yerine bu tam tema ZIP'ini yükleyin. Bekleme süresi önceki 115 saniyeye geri alındı; geçici hatada bir kez otomatik yeniden deneme ve gerçek teknik hata gösterimi eklendi. Mevcut konuya Create / resume article ile devam edin; anahtarları tekrar girmeniz gerekmez.
+
+45 saniye geciken gerçek yerel HTTP yanıtı ve tarayıcı yeniden deneme kontrolleri geçti. Gerçek Gemini hesabıyla ücretli üretim yapılmadı.
+
+SHA256: 7cc741ac68a5082055e256f72fa3e5b77230ba40ee88dc7162b1482716810d07
+
+Güncellemeden önce site/veritabanı yedeği alın. Canlıya otomatik kurulum yapılmadı. Paket veritabanı, rezervasyon kaydı, API anahtarı veya test hesabı içermez.
